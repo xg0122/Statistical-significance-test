@@ -245,7 +245,7 @@ def main():
 	# 3. Nemenyi 事后检验及可视化
 	print("\n" + "=" * 60)
 	print("Nemenyi 事后检验及可视化")
-	nemenyi_pvals = nemenyi_posthoc_and_plot(scores, algorithm_names, save_path="/icislab/volume1/zxg188/算法/nemenyi_plot.png")
+	nemenyi_pvals = nemenyi_posthoc_and_plot(scores, algorithm_names, save_path="nemenyi_plot.png")
 
 
 if __name__ == "__main__":
