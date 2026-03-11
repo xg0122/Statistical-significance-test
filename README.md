@@ -1,4 +1,4 @@
-# Statistical-significance-test
+# Statistical-significance-test|显著性检验测试
 This is a statistical analysis script designed for multi-algorithm comparison experiments. Its core functionality includes the Friedman overall significance test, the Iman-Davenport correction, the Wilcoxon signed-rank test, as well as the Nemenyi post-hoc test and critical difference diagram visualization.
 
 The script takes a "multi-dataset × multi-algorithm" score matrix as input, first assessing whether there are significant overall differences between algorithms. It then identifies the differences between the target algorithm and each baseline method, outputting average ranks, significance results, and graphical files. This script is suitable for reproducible clustering algorithm experiments, method comparisons, and result reporting in research papers.
