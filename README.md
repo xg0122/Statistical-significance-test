@@ -15,3 +15,19 @@ The script takes a "multi-dataset × multi-algorithm" score matrix as input. It 
 ### Example Visualization | Nemenyi 可视化效果图
 
 <img width="1008" height="373" alt="Nemenyi Critical Difference Diagram" src="https://github.com/user-attachments/assets/d9af0bfa-ea1b-40d5-9017-8cbfddd64c3a" />
+
+
+If you find this repository useful for your research, please consider citing our paper:
+
+```bibtex
+@article{EGBDPM,
+  title = {EGBDPM: Efficient granular ball density peaks clustering for manifold data},
+  journal = {Neurocomputing},
+  volume = {682},
+  pages = {133427},
+  year = {2026},
+  issn = {0925-2312},
+  doi = {https://doi.org/10.1016/j.neucom.2026.133427},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231226008246},
+  author = {Xingguo Zhang and Li Xu and Weikuan Jia}
+}
